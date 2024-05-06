@@ -1,0 +1,638 @@
+<Recensements>
+  <Recensement>
+    <Date_de_recensement>2024-01-01</Date_de_recensement>
+    <Population>
+      <Nombre_d_individus>34</Nombre_d_individus>
+      <Nom_habitats>
+        <Nom_habitat>Baie de New York</Nom_habitat>
+        <DataEaux>
+          <TemperatureEau>20.5</TemperatureEau>
+          <PhEau>7.8</PhEau>
+          <Salinite>35</Salinite>
+        </DataEaux>
+      </Nom_habitats>
+    </Population>
+    <Individus>
+      <Individu>
+        <Nom>Tom</Nom>
+        <Espece>Carcharhinus limbatus</Espece>
+        <ClassBiologique>
+          <Classe>Elasmobranchii</Classe>
+          <Ordre>Carcharhiniformes</Ordre>
+          <Famille>Carcharhinidae</Famille>
+          <Genre>Carcharhinus</Genre>
+          <AgeMax>70</AgeMax>
+        </ClassBiologique>
+        <Age>15</Age>
+        <CaracteristiquePhysique>Taches sombres sur le dos</CaracteristiquePhysique>
+        <Taille>180</Taille>
+        <Poids>90</Poids>
+        <Menace>
+          <DegreMenace>LC - Least Concern</DegreMenace>
+        </Menace>
+      </Individu>
+      <Individu>
+        <Nom>Bella</Nom>
+        <Espece>Squalus acanthias</Espece>
+        <ClassBiologique>
+          <Classe>Squaliformes</Classe>
+          <Ordre>Squalidae</Ordre>
+          <Famille>Squalus</Famille>
+          <Genre>Squalus</Genre>
+          <AgeMax>25</AgeMax>
+        </ClassBiologique>
+        <Age>10</Age>
+        <CaracteristiquePhysique>Corps allongé avec des épines dorsales</CaracteristiquePhysique>
+        <Taille>100</Taille>
+        <Poids>15</Poids>
+        <Menace>
+          <DegreMenace>NT - Near Threatened</DegreMenace>
+        </Menace>
+      </Individu>
+      <Individu>
+        <Nom>Rocky</Nom>
+        <Espece>Squatina squatina</Espece>
+        <ClassBiologique>
+          <Classe>Squatiniformes</Classe>
+          <Ordre>Squatinidae</Ordre>
+          <Famille>Squatina</Famille>
+          <Genre>Squatina</Genre>
+          <AgeMax>25</AgeMax>
+        </ClassBiologique>
+        <Age>20</Age>
+        <CaracteristiquePhysique>Corps large et aplati avec de grandes nageoires pectorales</CaracteristiquePhysique>
+        <Taille>150</Taille>
+        <Poids>30</Poids>
+        <Menace>
+          <DegreMenace>LC - Least Concern</DegreMenace>
+        </Menace>
+      </Individu>
+      <Individu>
+        <Nom>Chloe</Nom>
+        <Espece>Chimaera monstrosa</Espece>
+        <ClassBiologique>
+          <Classe>Holocephali</Classe>
+          <Ordre>Chimaeriformes</Ordre>
+          <Famille>Chimaeridae</Famille>
+          <Genre>Chimaera</Genre>
+          <AgeMax>25</AgeMax>
+        </ClassBiologique>
+        <Age>25</Age>
+        <CaracteristiquePhysique>Apparence unique avec des appendices sur la tête</CaracteristiquePhysique>
+        <Taille>200</Taille>
+        <Poids>40</Poids>
+        <Menace>
+          <DegreMenace>LC - Least Concern</DegreMenace>
+        </Menace>
+      </Individu>
+      <Individu>
+        <Nom>Leo</Nom>
+        <Espece>Lamna nasus</Espece>
+        <ClassBiologique>
+          <Classe>Selachimorpha</Classe>
+          <Ordre>Lamniformes</Ordre>
+          <Famille>Lamnidae</Famille>
+          <Genre>Carcharodon</Genre>
+          <AgeMax>50</AgeMax>
+        </ClassBiologique>
+        <Age>15</Age>
+        <CaracteristiquePhysique>Corps fuselé avec des dents pointues</CaracteristiquePhysique>
+        <Taille>200</Taille>
+        <Poids>60</Poids>
+        <Menace>
+          <DegreMenace>VU - Vulnerable</DegreMenace>
+        </Menace>
+      </Individu>
+      <Individu>
+        <Nom>Luna</Nom>
+        <Espece>Etmopterus spinax</Espece>
+        <ClassBiologique>
+          <Classe>Squaliformes</Classe>
+          <Ordre>Squalidae</Ordre>
+          <Famille>Squalus</Famille>
+          <Genre>Squalus</Genre>
+          <AgeMax>25</AgeMax>
+        </ClassBiologique>
+        <Age>8</Age>
+        <CaracteristiquePhysique>Petite taille avec des organes lumineux</CaracteristiquePhysique>
+        <Taille>40</Taille>
+        <Poids>2</Poids>
+        <Menace>
+          <DegreMenace>LC - Least Concern</DegreMenace>
+        </Menace>
+      </Individu>
+      <Individu>
+        <Nom>Oliver</Nom>
+        <Espece>Pristiophorus nudipinnis</Espece>
+        <ClassBiologique>
+          <Classe>Pristiophoriformes</Classe>
+          <Ordre>Pristiophoridae</Ordre>
+          <Famille>Pristiophorus</Famille>
+          <Genre>Pristiophorus</Genre>
+          <AgeMax>25</AgeMax>
+        </ClassBiologique>
+        <Age>10</Age>
+        <CaracteristiquePhysique>Long museau avec une scie à dents</CaracteristiquePhysique>
+        <Taille>50</Taille>
+        <Poids>3</Poids>
+        <Menace>
+          <DegreMenace>LC - Least Concern</DegreMenace>
+        </Menace>
+      </Individu>
+      <Individu>
+        <Nom>Maxime</Nom>
+        <Espece>Carcharhinus limbatus</Espece>
+        <ClassBiologique>
+          <Classe>Elasmobranchii</Classe>
+          <Ordre>Carcharhiniformes</Ordre>
+          <Famille>Carcharhinidae</Famille>
+          <Genre>Carcharhinus</Genre>
+          <AgeMax>70</AgeMax>
+        </ClassBiologique>
+        <Age>12</Age>
+        <CaracteristiquePhysique>Taches sombres sur le dos</CaracteristiquePhysique>
+        <Taille>170</Taille>
+        <Poids>80</Poids>
+        <Menace>
+          <DegreMenace>LC - Least Concern</DegreMenace>
+        </Menace>
+      </Individu>
+      <Individu>
+        <Nom>Emma</Nom>
+        <Espece>Squalus acanthias</Espece>
+        <ClassBiologique>
+          <Classe>Squaliformes</Classe>
+          <Ordre>Squalidae</Ordre>
+          <Famille>Squalus</Famille>
+          <Genre>Squalus</Genre>
+          <AgeMax>25</AgeMax>
+        </ClassBiologique>
+        <Age>7</Age>
+        <CaracteristiquePhysique>Corps allongé avec des épines dorsales</CaracteristiquePhysique>
+        <Taille>90</Taille>
+        <Poids>10</Poids>
+        <Menace>
+          <DegreMenace>NT - Near Threatened</DegreMenace>
+        </Menace>
+      </Individu>
+      <Individu>
+        <Nom>Lucas</Nom>
+        <Espece>Squatina squatina</Espece>
+        <ClassBiologique>
+          <Classe>Squatiniformes</Classe>
+          <Ordre>Squatinidae</Ordre>
+          <Famille>Squatina</Famille>
+          <Genre>Squatina</Genre>
+          <AgeMax>25</AgeMax>
+        </ClassBiologique>
+        <Age>16</Age>
+        <CaracteristiquePhysique>Corps large et aplati avec de grandes nageoires pectorales</CaracteristiquePhysique>
+        <Taille>140</Taille>
+        <Poids>25</Poids>
+        <Menace>
+          <DegreMenace>LC - Least Concern</DegreMenace>
+        </Menace>
+      </Individu>
+      <Individu>
+        <Nom>Léna</Nom>
+        <Espece>Chimaera monstrosa</Espece>
+        <ClassBiologique>
+          <Classe>Holocephali</Classe>
+          <Ordre>Chimaeriformes</Ordre>
+          <Famille>Chimaeridae</Famille>
+          <Genre>Chimaera</Genre>
+          <AgeMax>25</AgeMax>
+        </ClassBiologique>
+        <Age>25</Age>
+        <CaracteristiquePhysique>Apparence unique avec des appendices sur la tête</CaracteristiquePhysique>
+        <Taille>180</Taille>
+        <Poids>35</Poids>
+        <Menace>
+          <DegreMenace>LC - Least Concern</DegreMenace>
+        </Menace>
+      </Individu>
+      <Individu>
+        <Nom>Noé</Nom>
+        <Espece>Lamna nasus</Espece>
+        <ClassBiologique>
+          <Classe>Selachimorpha</Classe>
+          <Ordre>Lamniformes</Ordre>
+          <Famille>Lamnidae</Famille>
+          <Genre>Carcharodon</Genre>
+          <AgeMax>50</AgeMax>
+        </ClassBiologique>
+        <Age>20</Age>
+        <CaracteristiquePhysique>Corps fuselé avec des dents pointues</CaracteristiquePhysique>
+        <Taille>220</Taille>
+        <Poids>70</Poids>
+        <Menace>
+          <DegreMenace>VU - Vulnerable</DegreMenace>
+        </Menace>
+      </Individu>
+      <Individu>
+        <Nom>Jade</Nom>
+        <Espece>Etmopterus spinax</Espece>
+        <ClassBiologique>
+          <Classe>Squaliformes</Classe>
+          <Ordre>Squalidae</Ordre>
+          <Famille>Squalus</Famille>
+          <Genre>Squalus</Genre>
+          <AgeMax>25</AgeMax>
+        </ClassBiologique>
+        <Age>5</Age>
+        <CaracteristiquePhysique>Petite taille avec des organes lumineux</CaracteristiquePhysique>
+        <Taille>35</Taille>
+        <Poids>3</Poids>
+        <Menace>
+          <DegreMenace>LC - Least Concern</DegreMenace>
+        </Menace>
+      </Individu>
+      <Individu>
+        <Nom>Louis</Nom>
+        <Espece>Pristiophorus nudipinnis</Espece>
+        <ClassBiologique>
+          <Classe>Pristiophoriformes</Classe>
+          <Ordre>Pristiophoridae</Ordre>
+          <Famille>Pristiophorus</Famille>
+          <Genre>Pristiophorus</Genre>
+          <AgeMax>25</AgeMax>
+        </ClassBiologique>
+        <Age>8</Age>
+        <CaracteristiquePhysique>Long museau avec une scie à dents</CaracteristiquePhysique>
+        <Taille>40</Taille>
+        <Poids>2</Poids>
+        <Menace>
+          <DegreMenace>LC - Least Concern</DegreMenace>
+        </Menace>
+      </Individu>
+      <Individu>
+        <Nom>Léo</Nom>
+        <Espece>Carcharhinus limbatus</Espece>
+        <ClassBiologique>
+          <Classe>Elasmobranchii</Classe>
+          <Ordre>Carcharhiniformes</Ordre>
+          <Famille>Carcharhinidae</Famille>
+          <Genre>Carcharhinus</Genre>
+          <AgeMax>70</AgeMax>
+        </ClassBiologique>
+        <Age>22</Age>
+        <CaracteristiquePhysique>Taches sombres sur le dos</CaracteristiquePhysique>
+        <Taille>180</Taille>
+        <Poids>90</Poids>
+        <Menace>
+          <DegreMenace>LC - Least Concern</DegreMenace>
+        </Menace>
+      </Individu>
+      <Individu>
+        <Nom>Julia</Nom>
+        <Espece>Carcharodon carcharias</Espece>
+        <ClassBiologique>
+          <Classe>Selachimorpha</Classe>
+          <Ordre>Lamniformes</Ordre>
+          <Famille>Lamnidae</Famille>
+          <Genre>Carcharodon</Genre>
+          <AgeMax>50</AgeMax>
+        </ClassBiologique>
+        <Age>28</Age>
+        <CaracteristiquePhysique>Grande taille et mâchoire puissante</CaracteristiquePhysique>
+        <Taille>450</Taille>
+        <Poids>1200</Poids>
+        <Menace>
+          <DegreMenace>EN - Endangered</DegreMenace>
+        </Menace>
+      </Individu>
+      <Individu>
+        <Nom>Arthur</Nom>
+        <Espece>Ginglymostoma cirratum</Espece>
+        <ClassBiologique>
+          <Classe>Chondrichthyes</Classe>
+          <Ordre>Orectolobiformes</Ordre>
+          <Famille>Ginglymostomatidae</Famille>
+          <Genre>Ginglymostoma</Genre>
+          <AgeMax>25</AgeMax>
+        </ClassBiologique>
+        <Age>25</Age>
+        <CaracteristiquePhysique>Couleur uniforme, nez arrondi</CaracteristiquePhysique>
+        <Taille>250</Taille>
+        <Poids>200</Poids>
+        <Menace>
+          <DegreMenace>LC - Least Concern</DegreMenace>
+        </Menace>
+      </Individu>
+      <Individu>
+        <Nom>Léa</Nom>
+        <Espece>Squalus acanthias</Espece>
+        <ClassBiologique>
+          <Classe>Squaliformes</Classe>
+          <Ordre>Squalidae</Ordre>
+          <Famille>Squalus</Famille>
+          <Genre>Squalus</Genre>
+          <AgeMax>25</AgeMax>
+        </ClassBiologique>
+        <Age>15</Age>
+        <CaracteristiquePhysique>Corps allongé avec des épines dorsales</CaracteristiquePhysique>
+        <Taille>100</Taille>
+        <Poids>15</Poids>
+        <Menace>
+          <DegreMenace>NT - Near Threatened</DegreMenace>
+        </Menace>
+      </Individu>
+      <Individu>
+        <Nom>Gabriel</Nom>
+        <Espece>Hexanchus griseus</Espece>
+        <ClassBiologique>
+          <Classe>Hexanchiformes</Classe>
+          <Ordre>Hexanchidae</Ordre>
+          <Famille>Hexanchus</Famille>
+          <Genre>Hexanchus</Genre>
+          <AgeMax>100</AgeMax>
+        </ClassBiologique>
+        <Age>40</Age>
+        <CaracteristiquePhysique>Corps massif avec des nageoires dorsales inhabituelles</CaracteristiquePhysique>
+        <Taille>400</Taille>
+        <Poids>600</Poids>
+        <Menace>
+          <DegreMenace>LR - Lower Risk</DegreMenace>
+        </Menace>
+      </Individu>
+      <Individu>
+        <Nom>Clara</Nom>
+        <Espece>Heterodontus francisci</Espece>
+        <ClassBiologique>
+          <Classe>Heterodontiformes</Classe>
+          <Ordre>Heterodontidae</Ordre>
+          <Famille>Heterodontus</Famille>
+          <Genre>Heterodontus</Genre>
+          <AgeMax>30</AgeMax>
+        </ClassBiologique>
+        <Age>25</Age>
+        <CaracteristiquePhysique>Teinte brune avec des taches sombres</CaracteristiquePhysique>
+        <Taille>130</Taille>
+        <Poids>20</Poids>
+        <Menace>
+          <DegreMenace>LC - Least Concern</DegreMenace>
+        </Menace>
+      </Individu>
+      <Individu>
+        <Nom>Lucas</Nom>
+        <Espece>Squatina squatina</Espece>
+        <ClassBiologique>
+          <Classe>Squatiniformes</Classe>
+          <Ordre>Squatinidae</Ordre>
+          <Famille>Squatina</Famille>
+          <Genre>Squatina</Genre>
+          <AgeMax>25</AgeMax>
+        </ClassBiologique>
+        <Age>20</Age>
+        <CaracteristiquePhysique>Corps large et aplati avec de grandes nageoires pectorales</CaracteristiquePhysique>
+        <Taille>120</Taille>
+        <Poids>30</Poids>
+        <Menace>
+          <DegreMenace>LC - Least Concern</DegreMenace>
+        </Menace>
+      </Individu>
+      <Individu>
+        <Nom>Zoé</Nom>
+        <Espece>Pristiophorus japonicus</Espece>
+        <ClassBiologique>
+          <Classe>Pristiophoriformes</Classe>
+          <Ordre>Pristiophoridae</Ordre>
+          <Famille>Pristiophorus</Famille>
+          <Genre>Pristiophorus</Genre>
+          <AgeMax>25</AgeMax>
+        </ClassBiologique>
+        <Age>10</Age>
+        <CaracteristiquePhysique>Long museau avec une scie à dents</CaracteristiquePhysique>
+        <Taille>60</Taille>
+        <Poids>7</Poids>
+        <Menace>
+          <DegreMenace>LC - Least Concern</DegreMenace>
+        </Menace>
+      </Individu>
+      <Individu>
+        <Nom>Louis</Nom>
+        <Espece>Scyliorhinus canicula</Espece>
+        <ClassBiologique>
+          <Classe>Carcharhiniformes</Classe>
+          <Ordre>Scyliorhinidae</Ordre>
+          <Famille>Scyliorhinus</Famille>
+          <Genre>Scyliorhinus</Genre>
+          <AgeMax>20</AgeMax>
+        </ClassBiologique>
+        <Age>5</Age>
+        <CaracteristiquePhysique>Petite taille avec des taches claires</CaracteristiquePhysique>
+        <Taille>30</Taille>
+        <Poids>3</Poids>
+        <Menace>
+          <DegreMenace>LC - Least Concern</DegreMenace>
+        </Menace>
+      </Individu>
+      <Individu>
+        <Nom>Lucie</Nom>
+        <Espece>Chimaera monstrosa</Espece>
+        <ClassBiologique>
+          <Classe>Holocephali</Classe>
+          <Ordre>Chimaeriformes</Ordre>
+          <Famille>Chimaeridae</Famille>
+          <Genre>Chimaera</Genre>
+          <AgeMax>25</AgeMax>
+        </ClassBiologique>
+        <Age>20</Age>
+        <CaracteristiquePhysique>Apparence unique avec des appendices sur la tête</CaracteristiquePhysique>
+        <Taille>200</Taille>
+        <Poids>40</Poids>
+        <Menace>
+          <DegreMenace>LC - Least Concern</DegreMenace>
+        </Menace>
+      </Individu>
+      <Individu>
+        <Nom>Antoine</Nom>
+        <Espece>Alopias vulpinus</Espece>
+        <ClassBiologique>
+          <Classe>Selachimorpha</Classe>
+          <Ordre>Lamniformes</Ordre>
+          <Famille>Lamnidae</Famille>
+          <Genre>Carcharodon</Genre>
+          <AgeMax>50</AgeMax>
+        </ClassBiologique>
+        <Age>35</Age>
+        <CaracteristiquePhysique>Queue longue et fine</CaracteristiquePhysique>
+        <Taille>320</Taille>
+        <Poids>200</Poids>
+        <Menace>
+          <DegreMenace>NT - Near Threatened</DegreMenace>
+        </Menace>
+      </Individu>
+      <Individu>
+        <Nom>Carla</Nom>
+        <Espece>Cetorhinus maximus</Espece>
+        <ClassBiologique>
+          <Classe>Selachimorpha</Classe>
+          <Ordre>Lamniformes</Ordre>
+          <Famille>Lamnidae</Famille>
+          <Genre>Carcharodon</Genre>
+          <AgeMax>50</AgeMax>
+        </ClassBiologique>
+        <Age>20</Age>
+        <CaracteristiquePhysique>Bouche énorme avec de petites dents</CaracteristiquePhysique>
+        <Taille>800</Taille>
+        <Poids>1000</Poids>
+        <Menace>
+          <DegreMenace>EN - Endangered</DegreMenace>
+        </Menace>
+      </Individu>
+      <Individu>
+        <Nom>Nathan</Nom>
+        <Espece>Lamna nasus</Espece>
+        <ClassBiologique>
+          <Classe>Selachimorpha</Classe>
+          <Ordre>Lamniformes</Ordre>
+          <Famille>Lamnidae</Famille>
+          <Genre>Carcharodon</Genre>
+          <AgeMax>50</AgeMax>
+        </ClassBiologique>
+        <Age>30</Age>
+        <CaracteristiquePhysique>Corps fuselé avec des dents pointues</CaracteristiquePhysique>
+        <Taille>250</Taille>
+        <Poids>100</Poids>
+        <Menace>
+          <DegreMenace>VU - Vulnerable</DegreMenace>
+        </Menace>
+      </Individu>
+      <Individu>
+        <Nom>Lola</Nom>
+        <Espece>Isurus oxyrinchus</Espece>
+        <ClassBiologique>
+          <Classe>Selachimorpha</Classe>
+          <Ordre>Lamniformes</Ordre>
+          <Famille>Lamnidae</Famille>
+          <Genre>Carcharodon</Genre>
+          <AgeMax>50</AgeMax>
+        </ClassBiologique>
+        <Age>35</Age>
+        <CaracteristiquePhysique>Corps élancé avec une grande nageoire caudale</CaracteristiquePhysique>
+        <Taille>300</Taille>
+        <Poids>200</Poids>
+        <Menace>
+          <DegreMenace>LR - Lower Risk</DegreMenace>
+        </Menace>
+      </Individu>
+      <Individu>
+        <Nom>Nathan</Nom>
+        <Espece>Sphyrna lewini</Espece>
+        <ClassBiologique>
+          <Classe>Elasmobranchii</Classe>
+          <Ordre>Carcharhiniformes</Ordre>
+          <Famille>Carcharhinidae</Famille>
+          <Genre>Carcharhinus</Genre>
+          <AgeMax>70</AgeMax>
+        </ClassBiologique>
+        <Age>32</Age>
+        <CaracteristiquePhysique>Tête en forme de marteau avec des yeux à chaque extrémité</CaracteristiquePhysique>
+        <Taille>350</Taille>
+        <Poids>150</Poids>
+        <Menace>
+          <DegreMenace>LR - Lower Risk</DegreMenace>
+        </Menace>
+      </Individu>
+      <Individu>
+        <Nom>Mia</Nom>
+        <Espece>Etmopterus spinax</Espece>
+        <ClassBiologique>
+          <Classe>Squaliformes</Classe>
+          <Ordre>Squalidae</Ordre>
+          <Famille>Squalus</Famille>
+          <Genre>Squalus</Genre>
+          <AgeMax>25</AgeMax>
+        </ClassBiologique>
+        <Age>14</Age>
+        <CaracteristiquePhysique>Petite taille avec des organes lumineux</CaracteristiquePhysique>
+        <Taille>50</Taille>
+        <Poids>5</Poids>
+        <Menace>
+          <DegreMenace>LC - Least Concern</DegreMenace>
+        </Menace>
+      </Individu>
+      <Individu>
+        <Nom>Max</Nom>
+        <Espece>Centrophorus granulosus</Espece>
+        <ClassBiologique>
+          <Classe>Squaliformes</Classe>
+          <Ordre>Squalidae</Ordre>
+          <Famille>Squalus</Famille>
+          <Genre>Squalus</Genre>
+          <AgeMax>25</AgeMax>
+        </ClassBiologique>
+        <Age>15</Age>
+        <CaracteristiquePhysique>Corps allongé avec des dents pointues</CaracteristiquePhysique>
+        <Taille>200</Taille>
+        <Poids>25</Poids>
+        <Menace>
+          <DegreMenace>NT - Near Threatened</DegreMenace>
+        </Menace>
+      </Individu>
+      <Individu>
+        <Nom>Bella</Nom>
+        <Espece>Squalus blainville</Espece>
+        <ClassBiologique>
+          <Classe>Squaliformes</Classe>
+          <Ordre>Squalidae</Ordre>
+          <Famille>Squalus</Famille>
+          <Genre>Squalus</Genre>
+          <AgeMax>25</AgeMax>
+        </ClassBiologique>
+        <Age>10</Age>
+        <CaracteristiquePhysique>Petite taille avec des nageoires dorsales courtes</CaracteristiquePhysique>
+        <Taille>50</Taille>
+        <Poids>3</Poids>
+        <Menace>
+          <DegreMenace>LC - Least Concern</DegreMenace>
+        </Menace>
+      </Individu>
+      <Individu>
+        <Nom>Oliver</Nom>
+        <Espece>Pristiophorus nudipinnis</Espece>
+        <ClassBiologique>
+          <Classe>Pristiophoriformes</Classe>
+          <Ordre>Pristiophoridae</Ordre>
+          <Famille>Pristiophorus</Famille>
+          <Genre>Pristiophorus</Genre>
+          <AgeMax>25</AgeMax>
+        </ClassBiologique>
+        <Age>18</Age>
+        <CaracteristiquePhysique>Long museau avec une scie à dents</CaracteristiquePhysique>
+        <Taille>70</Taille>
+        <Poids>4</Poids>
+        <Menace>
+          <DegreMenace>LC - Least Concern</DegreMenace>
+        </Menace>
+      </Individu>
+      <Individu>
+        <Nom>Charlotte</Nom>
+        <Espece>Scyliorhinus retifer</Espece>
+        <ClassBiologique>
+          <Classe>Carcharhiniformes</Classe>
+          <Ordre>Scyliorhinidae</Ordre>
+          <Famille>Scyliorhinus</Famille>
+          <Genre>Scyliorhinus</Genre>
+          <AgeMax>20</AgeMax>
+        </ClassBiologique>
+        <Age>7</Age>
+        <CaracteristiquePhysique>Petite taille avec des épines dorsales</CaracteristiquePhysique>
+        <Taille>40</Taille>
+        <Poids>3</Poids>
+        <Menace>
+          <DegreMenace>VU - Vulnerable</DegreMenace>
+        </Menace>
+      </Individu>
+    </Individus>
+    <Lieux>
+      <Lieu>
+        <Latitude>40.7128</Latitude>
+        <Longitude>-74.0060</Longitude>
+        <Nom>Baie de New York</Nom>
+        <Description>Eaux riches en proies pour les requins</Description>
+      </Lieu>
+    </Lieux>
+  </Recensement>
+</Recensements>

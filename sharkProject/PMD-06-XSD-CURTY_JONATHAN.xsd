@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Recensements">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Recensement" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Recensement">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Date_de_recensement" type="xs:date"/>
+        <xs:element name="Population">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Nombre_d_individus" type="xs:integer"/>
+              <xs:element name="Nom_habitats" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Nom_habitat" type="xs:string"/>
+                    <xs:element name="DataEaux">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="TemperatureEau" type="xs:decimal"/>
+                          <xs:element name="PhEau" type="xs:decimal"/>
+                          <xs:element name="Salinite" type="xs:decimal"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Individus">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element ref="Individu" minOccurs="0" maxOccurs="unbounded"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Lieux">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Lieu">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Latitude" type="xs:string"/>
+                    <xs:element name="Longitude" type="xs:string"/>
+                    <xs:element name="Nom" type="xs:string"/>
+                    <xs:element name="Description" type="xs:string"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Individu">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Nom" type="xs:string"/>
+        <xs:element name="Espece" type="xs:string"/>
+        <xs:element name="ClassBiologique">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Classe" type="xs:string"/>
+              <xs:element name="Ordre" type="xs:string"/>
+              <xs:element name="Famille" type="xs:string"/>
+              <xs:element name="Genre" type="xs:string"/>
+              <xs:element name="AgeMax" type="xs:integer"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Age" type="xs:integer"/>
+        <xs:element name="CaracteristiquePhysique" type="xs:string"/>
+        <xs:element name="Taille" type="xs:decimal"/>
+        <xs:element name="Poids" type="xs:decimal"/>
+        <xs:element name="Menace">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DegreMenace" type="xs:string"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>
