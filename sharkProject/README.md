@@ -10,7 +10,7 @@ Data from https://www.iucnredlist.org/
 
 Conceptual data model for the shark census management application.
 
-## [PMD-06-XML-CURTY_JONATHAN.sql](PMD-06-XML-CURTY_JONATHAN.xml)
+## [PMD-06-XML-CURTY_JONATHAN.xml](PMD-06-XML-CURTY_JONATHAN.xml)
 
 Example of a database output document in XML format.
 
